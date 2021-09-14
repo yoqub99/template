@@ -1,0 +1,32 @@
+.footer{
+    background: #E5E5E5;
+    margin-top: -50px;
+}
+.wide_wrap{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;   
+    margin-left: 170px;
+    margin-right: 170px; 
+}
+.list2{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+.class_link{
+    margin-right: 54px;
+}
+.wide_wrap1 a{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 22px;
+    text-align: center;
+    color: #272D4E;
+    text-decoration: none;
+}
+.wide_img{
+    width: 183px;
+    height: 14px;
+}
